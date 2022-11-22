@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Jinghan and I am currently finishing my Computer Engineering PhD degree at the Michigan State University!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://wallpapercave.com/dwp1x/wp3754099.jpg" width="50%" height="auto" />
 
 
 <!-- #### 🌱 Things I am currently working on: 
@@ -35,4 +35,3 @@ Welcome to my Github page! I am Jinghan and I am currently finishing my Computer
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>

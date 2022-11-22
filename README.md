@@ -1,1 +1,1 @@
-[![jinghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinghanjia)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
+[![jinghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinghanjia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
